@@ -1,3 +1,3 @@
 # Image-Classification
 
-Recognizing traffic signs from various images using Machine Learning
+Classifying 43 different types of images from the German Traffic Sign Images using Convolutional Neural Networks
